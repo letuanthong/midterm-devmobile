@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "56087344890",
+    "firebase_url": "https://midterm-a4e23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "midterm-a4e23",
+    "storage_bucket": "midterm-a4e23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56087344890:android:239ef1b7e8da25b6627b43",
+        "android_client_info": {
+          "package_name": "dev.mobile.midterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyeaQRCMl2swQnk2M5_rizE5SqWckXrC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<!-- res/menu/menu_view_certificate.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_certificate"
+        android:icon="@drawable/ic_add"
+        android:title="Add Certificate"
+        app:showAsAction="always" />
+</menu>
